@@ -5,7 +5,7 @@ func titleToNumber(s string) int {
     length := len(chars)
     for i := 0; i < length; i += 1{
         char := chars[i]
-        ret += int(char - 'A' + 1) * int(math.Pow(26, float64(length - i - 1)))
+        ret += int(char - 64) * int(math.Pow(26, float64(length - i - 1)))
     }
     return ret
 }
