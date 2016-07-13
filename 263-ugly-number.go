@@ -3,6 +3,7 @@ func isUgly(num int) bool {
         return false
     } else {
         return defactor(defactor(defactor(num, 5), 3), 2) == 1
+    }
 }
 
 func defactor(num int, prime int) int {
