@@ -4,7 +4,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 3: one-loop solution; start index
 * 5: handle "aaaaaaa" by `expand` 
 * 11: know what it is talking about
-* 24: beautifule recursive solution
+* 24: beautiful recursive solution
 * 238: Index
 * 260: bit := res & (-res)
 * 347: Bucket Sort
