@@ -10,6 +10,5 @@ func removeElement(nums []int, val int) int {
         }
         ed += 1
     }
-	fmt.Println(nums)
     return st
 }
