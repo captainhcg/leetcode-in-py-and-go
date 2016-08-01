@@ -5,6 +5,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 5: handle "aaaaaaa" by `expand` 
 * 11: know what it is talking about
 * 24: beautiful recursive solution
+* 29: overflow; both-negative
 * 238: Index
 * 260: bit := res & (-res)
 * 347: Bucket Sort
