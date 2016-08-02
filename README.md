@@ -7,6 +7,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 24: beautiful recursive solution
 * 29: overflow; both-negative
 * 31: just do it again
+* 198: The second room
 * 238: Index
 * 260: bit := res & (-res)
 * 347: Bucket Sort
