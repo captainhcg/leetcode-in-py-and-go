@@ -9,6 +9,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 31: just do it again
 * 91: just do it again
 * 134: think about it, gas station
+* 172: know the trick
 * 198: The second room
 * 238: Index
 * 260: bit := res & (-res)
