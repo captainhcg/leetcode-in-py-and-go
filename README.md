@@ -18,6 +18,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 198: The second room
 * 238: Index
 * 260: bit := res & (-res)
+* 319: know the trick
 * 347: Bucket Sort
 * 355: heapq.merge; itertools.islice
 * 357: 0; The helper function
