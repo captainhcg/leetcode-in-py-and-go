@@ -13,6 +13,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 160: know the trick
 * 168: n, idx = divmod(n-1, 26)
 * 172: know the trick
+* 189: k = k % len(nums)
 * 198: The second room
 * 238: Index
 * 260: bit := res & (-res)
