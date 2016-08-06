@@ -20,6 +20,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 260: bit := res & (-res)
 * 318: compare mask and multiply mask
 * 319: know the trick
+* 328: clean up tails
 * 347: Bucket Sort
 * 355: heapq.merge; itertools.islice
 * 357: 0; The helper function
