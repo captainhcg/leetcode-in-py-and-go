@@ -24,3 +24,4 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 347: Bucket Sort
 * 355: heapq.merge; itertools.islice
 * 357: 0; The helper function
+* 377: DP trick, do it again
