@@ -5,6 +5,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 5: handle "aaaaaaa" by `expand` 
 * 11: know what it is talking about
 * 24: beautiful recursive solution
+* 25: a sieve algo
 * 29: overflow; both-negative
 * 31: just do it again
 * 88: just do it again
