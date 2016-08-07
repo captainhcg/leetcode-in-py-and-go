@@ -18,6 +18,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 198: The second room
 * 238: Index
 * 260: bit := res & (-res)
+* 309: two dp arraies
 * 318: compare mask and multiply mask
 * 319: know the trick
 * 328: clean up tails
