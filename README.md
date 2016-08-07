@@ -18,6 +18,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 189: k = k % len(nums)
 * 198: The second room
 * 238: Index
+* 241: solved it by myself, but still read it if I have time
 * 260: bit := res & (-res)
 * 309: know the splendid DP trick
 * 318: compare mask and multiply mask
