@@ -8,6 +8,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 25: a sieve algo
 * 29: overflow; both-negative
 * 31: just do it again
+* 59: spiral magic: zip(*A[::-1])
 * 88: just do it again
 * 89: just know the shitty trick of graycode
 * 91: just do it again
