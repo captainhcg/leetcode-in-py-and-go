@@ -14,6 +14,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 91: just do it again
 * 116: connect 2rd level
 * 134: think about it, gas station
+* 150: -1/5 = -1
 * 160: know the trick
 * 164: 1.0.0
 * 168: n, idx = divmod(n-1, 26)
