@@ -19,6 +19,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 168: n, idx = divmod(n-1, 26)
 * 172: know the trick
 * 173: solved it by myself in one pass, but still read it if I have time
+* 179: pay attentation to "00" and "0"
 * 189: k = k % len(nums)
 * 198: The second room
 * 238: Index
