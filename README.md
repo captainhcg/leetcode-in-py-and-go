@@ -9,6 +9,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 29: overflow; both-negative
 * 31: just do it again
 * 59: spiral magic: zip(*A[::-1])
+* 75: pay attention to the ptrs, do it again if you have time
 * 88: just do it again
 * 89: just know the shitty trick of graycode
 * 91: just do it again
