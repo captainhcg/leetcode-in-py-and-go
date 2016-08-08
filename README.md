@@ -38,4 +38,5 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 355: heapq.merge; itertools.islice
 * 357: 0; The helper function
 * 367: 1 + 2 + 3 + ... & Newton's method
+* 376: it is actualyl counting the segments (+1), not the numbers
 * 377: DP trick, do it again
