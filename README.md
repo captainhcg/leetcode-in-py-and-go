@@ -28,6 +28,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 238: Index
 * 240: know the splendid trick, top-right or left-bottom
 * 241: solved it by myself, but still read it if I have time
+* 279: DP trick: i - n*n
 * 260: bit := res & (-res)
 * 300: know the splendid nlog(n) solution
 * 309: know the splendid DP trick
