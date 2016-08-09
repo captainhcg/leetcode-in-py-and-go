@@ -15,6 +15,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 89: just know the shitty trick of graycode
 * 91: just do it again
 * 93: '010.01.01.010'
+* 114: do it in post-travel
 * 116: connect 2rd level
 * 134: think about it, gas station
 * 150: -1/5 = -1
