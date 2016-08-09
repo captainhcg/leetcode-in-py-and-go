@@ -17,6 +17,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 93: '010.01.01.010'
 * 114: do it in post-travel
 * 116: connect 2rd level
+* 128: there is a O(n) solution
 * 134: think about it, gas station
 * 150: -1/5 = -1
 * 160: know the trick
