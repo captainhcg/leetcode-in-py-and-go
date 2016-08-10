@@ -11,15 +11,14 @@ class Solution(object):
             inline[i] += 1
             outline[o].append(i)
         
-        dq = collections.deque()
+        dq = []
         for idx, v in enumerate(inline):
             if not v:
                 dq.append(idx)
-
-        
+                
         courses = 0
         while dq:
-            course = dq.popleft()
+            course = dq.pop()
             courses += 1
             for o in outline[course]:
                 inline[o] -= 1
