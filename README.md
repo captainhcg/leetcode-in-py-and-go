@@ -8,6 +8,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 25: a sieve algo
 * 29: overflow; both-negative
 * 31: just do it again
+* 40: pass last selected index
 * 55: it is a easy question but I made too many mistakes. Shall do it again
 * 59: spiral magic: zip(*A[::-1])
 * 75: pay attention to the ptrs, do it again if you have time
