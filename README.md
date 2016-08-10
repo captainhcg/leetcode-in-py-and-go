@@ -31,6 +31,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 189: k = k % len(nums)
 * 198: The second room
 * 201: Kerninghan Algorithm: n & (n-1)
+* 207: TP sort but not really sort, do it again
 * 215: quick-select, partition, do it again
 * 238: Index
 * 240: know the splendid trick, top-right or left-bottom
