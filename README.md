@@ -34,6 +34,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 201: Kerninghan Algorithm: n & (n-1)
 * 207: TP sort but not really sort, do it again
 * 215: quick-select, partition, do it again
+* 222: know what Complete Tree is and compare the depth
 * 238: Index
 * 240: know the splendid trick, top-right or left-bottom
 * 241: solved it by myself, but still read it if I have time
