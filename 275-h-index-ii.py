@@ -4,18 +4,14 @@ class Solution(object):
         :type citations: List[int]
         :rtype: int
         """
-        if not len(citations):
-            return 0
-        ret = 0
-        left, right = 0, len(citations) - 1
+        left, right, N = 0, len(citations) - 1, len(citations)
         while left <= right:
-            md = (left + right) / 2
-            if citations[md] == len(citations) - md:
+            md = (left + right) >> 1
+            if citations[md] == N - md:
                 return citations[md]
-            elif citations[md] > len(citations) - md:
-                ret = max(ret, len(citations) - md)
+            elif citations[md] > N - md:
                 right = md - 1
             else:
-                ret = max(ret, citations[md])
                 left = md + 1
-        return ret
+        return N - (right + 1)
+        
