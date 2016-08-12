@@ -12,6 +12,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 51 & 52: 8 queens - checking diagonal smart!!!
 * 55: it is a easy question but I made too many mistakes. Shall do it again
 * 59: spiral magic: zip(*A[::-1])
+* 61: create a circle link
 * 75: pay attention to the ptrs, do it again if you have time
 * 88: just do it again
 * 89: just know the shitty trick of graycode
