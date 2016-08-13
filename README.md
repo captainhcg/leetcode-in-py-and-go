@@ -24,7 +24,9 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 128: look left & look right
 * 134: think about it, gas station
 * 139: pay attentation to index, better do it again
+* 146: LRU, OrderedDict. popitem(last=True), pop()
 * 150: -1/5 = -1
+* 152: global_max, current_max, current_min
 * 160: know the trick
 * 162: find local peak. Should do it again
 * 164: 1.0.0
@@ -50,8 +52,10 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 318: compare mask and multiply mask
 * 319: know the trick
 * 328: clean up tails
+* 331: d##
 * 334: know the trick and do it again
 * 347: Bucket Sort
+* 354: NlogN solution, bisect_left
 * 355: heapq.merge; itertools.islice
 * 357: 0; The helper function
 * 367: 1 + 2 + 3 + ... & Newton's method
