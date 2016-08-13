@@ -1,0 +1,2 @@
+- string is immutable in python
+- string -> array of char: list(str)
