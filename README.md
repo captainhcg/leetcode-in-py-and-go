@@ -52,6 +52,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 328: clean up tails
 * 334: know the trick and do it again
 * 347: Bucket Sort
+* 354: NlogN solution, bisect_left
 * 355: heapq.merge; itertools.islice
 * 357: 0; The helper function
 * 367: 1 + 2 + 3 + ... & Newton's method
