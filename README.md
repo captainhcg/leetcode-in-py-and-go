@@ -53,6 +53,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 319: know the trick
 * 328: clean up tails
 * 331: d##
+* 332: stupid itinerary problem
 * 334: know the trick and do it again
 * 347: Bucket Sort
 * 354: NlogN solution, bisect_left
