@@ -40,6 +40,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 207: TP sort but not really sort, do it again
 * 215: quick-select, partition, do it again
 * 222: know what Complete Tree is and compare the depth
+* 227: there is a one-pass solution and store `op` as `+` before the loop
 * 236: a spendid way to get the path of p and q, do it again
 * 238: Index
 * 240: know the splendid trick, top-right or left-bottom
