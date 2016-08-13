@@ -24,6 +24,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 128: look left & look right
 * 134: think about it, gas station
 * 139: pay attentation to index, better do it again
+* 146: LRU, OrderedDict. popitem(last=True), pop()
 * 150: -1/5 = -1
 * 160: know the trick
 * 162: find local peak. Should do it again
