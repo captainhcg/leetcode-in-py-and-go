@@ -7,10 +7,8 @@ class Solution(object):
         carry = 1
         n = len(digits)
         for i in xrange(n - 1, -1, -1):
-            tmp = digits[i] + carry
-            carry = tmp / 10
-            digits[i] = tmp % 10
-
+            carry, digits[i] = divmod(digits[i] + carry, 10)
+            
         if carry:
             return [1] + digits
         else:
