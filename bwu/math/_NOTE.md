@@ -1,2 +1,3 @@
 - power of two: 0 is not power of two
 - power of three: 3 ^ x = n ==> x = log10(n) / log10(3)
+- happy number: detect loop like in linked list
