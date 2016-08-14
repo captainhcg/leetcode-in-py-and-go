@@ -53,6 +53,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 270: simple but made many stupid mistakes, do it again
 * 275: just do it again
 * 279: DP trick: i - n*n
+* 280: know the one pass trick or wiggle sort
 * 260: bit := res & (-res)
 * 294: brute force with cache
 * 300: know the splendid nlog(n) solution
