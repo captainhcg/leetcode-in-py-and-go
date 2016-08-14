@@ -27,6 +27,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 134: think about it, gas station
 * 139: pay attentation to index, better do it again
 * 146: LRU, OrderedDict. popitem(last=True), pop()
+* 147: keep tracking the tail node to speed up
 * 150: -1/5 = -1
 * 152: global_max, current_max, current_min
 * 157: read4, know what it is talking about
