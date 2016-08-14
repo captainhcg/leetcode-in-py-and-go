@@ -4,6 +4,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 3: one-loop solution; start index
 * 5: handle "aaaaaaa" by `expand` 
 * 11: know what it is talking about
+* 23: merge k, solved it in one pass, but check it out again
 * 24: beautiful recursive solution
 * 25: a sieve algo
 * 29: overflow; both-negative
