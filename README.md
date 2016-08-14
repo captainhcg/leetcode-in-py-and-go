@@ -28,6 +28,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 146: LRU, OrderedDict. popitem(last=True), pop()
 * 150: -1/5 = -1
 * 152: global_max, current_max, current_min
+* 157: read4, know what it is talking about
 * 160: know the trick
 * 162: find local peak. Should do it again
 * 164: 1.0.0
