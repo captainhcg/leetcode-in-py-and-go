@@ -1,0 +1,1 @@
+- hamming weight: number of '1' bits
