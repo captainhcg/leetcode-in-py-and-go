@@ -3,3 +3,4 @@
 - happy number: detect loop like in linked list
 - math.pow returns float!! use x ** y
 - binary number in string, omit leading zeroes: {0:b}.format(number)
+- divmod(x, y) returns x / y and x % y
