@@ -27,6 +27,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 116: connect 2rd level
 * 128: look left & look right
 * 134: think about it, gas station
+* 135: candy from left, candy from right
 * 139: pay attentation to index, better do it again
 * 146: LRU, OrderedDict. popitem(last=True), pop()
 * 147: keep tracking the tail node to speed up
