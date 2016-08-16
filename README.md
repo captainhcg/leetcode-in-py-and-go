@@ -81,3 +81,4 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 373: It is ok to use n*n solution, know heapq
 * 376: it is actualyl counting the segments (+1), not the numbers
 * 377: DP trick, do it again
+* 378: kth ele in matrix, min heap keep pulling
