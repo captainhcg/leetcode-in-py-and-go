@@ -35,6 +35,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 152: global_max, current_max, current_min
 * 157: read4, know what it is talking about
 * 160: know the trick
+* 161: one edit distance, two pointers one pass. ~0 == -1; ~1 == -2
 * 162: find local peak. Should do it again
 * 164: 1.0.0
 * 168: n, idx = divmod(n-1, 26)
