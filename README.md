@@ -64,6 +64,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 260: bit := res & (-res)
 * 294: brute force with cache
 * 295: shall store minus value in maxheap; heapq.heappushpop
+* 296: meet at the median point
 * 300: know the splendid nlog(n) solution
 * 309: know the splendid DP trick
 * 318: compare mask and multiply mask
