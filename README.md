@@ -29,6 +29,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 134: think about it, gas station
 * 135: candy from left, candy from right
 * 139: pay attentation to index, better do it again
+* 140: word-break ii. use maxlen and backtrack map
 * 146: LRU, OrderedDict. popitem(last=True), pop()
 * 147: keep tracking the tail node to speed up
 * 149: do not need a global dict, just a fresh dict in each loop
