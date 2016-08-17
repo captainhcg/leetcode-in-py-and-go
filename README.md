@@ -74,6 +74,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 319: know the trick
 * 322: coins change, both BFS and DP, BFS is faster
 * 323: connected-components, BFS and Union Find
+* 325: max-len-subarry, use hashmap!
 * 328: clean up tails
 * 331: d##
 * 332: stupid itinerary problem
