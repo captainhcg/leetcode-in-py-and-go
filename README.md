@@ -64,6 +64,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 279: DP trick: i - n*n
 * 280: know the one pass trick or wiggle sort
 * 260: bit := res & (-res)
+* 265: kn solution must be very careful. Shall do it again
 * 294: brute force with cache
 * 295: shall store minus value in maxheap; heapq.heappushpop
 * 296: meet at the median point
