@@ -62,13 +62,13 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 241: solved it by myself, but still read it if I have time
 * 245: idx1 = idx2 when w1 == w2
 * 253: super smart one pass solution, pay attentation to (1, 2), (2, 3)
+* 260: bit := res & (-res)
+* 265: kn solution must be very careful. Shall do it again
 * 269: crazy. zip, topo sort, ['a'] and ['ab', 'a']
 * 270: simple but made many stupid mistakes, do it again
 * 275: just do it again
 * 279: DP trick: i - n*n
 * 280: know the one pass trick or wiggle sort
-* 260: bit := res & (-res)
-* 265: kn solution must be very careful. Shall do it again
 * 294: brute force with cache
 * 295: shall store minus value in maxheap; heapq.heappushpop
 * 296: meet at the median point
