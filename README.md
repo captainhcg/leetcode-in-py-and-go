@@ -20,6 +20,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 59: spiral magic: zip(*A[::-1])
 * 60: pay attentation to base, C(n-1) not C(n)
 * 61: create a circle link
+* 69: sqrt in Newton's method
 * 75: pay attention to the ptrs, do it again if you have time
 * 88: just do it again
 * 89: just know the shitty trick of graycode
