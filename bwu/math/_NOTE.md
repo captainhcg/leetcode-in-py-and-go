@@ -5,3 +5,4 @@
 - binary number in string, omit leading zeroes: {0:b}.format(number)
 - divmod(x, y) returns x / y and x % y
 - count primes: use a [1 * n] array, like open window game
+- reverse integer: consider negative and overflow (> 2 ** 31)
