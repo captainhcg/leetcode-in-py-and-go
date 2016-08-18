@@ -28,6 +28,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 93: '010.01.01.010'
 * 114: do it in post-travel
 * 116: connect 2rd level
+* 126: word-ladder ii, pre is not str to str but str to list
 * 127: word-ladder, two-end BSF keep swiching
 * 128: look left & look right
 * 134: think about it, gas station
