@@ -3,7 +3,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 
 * 3: one-loop solution; start index
 * 5: handle "aaaaaaa" by `expand` 
-* 10: regex. pay attentation to ("", "a*") -> reverse and append "#"
+* 10: **regex. pay attentation to ("", "a*") -> reverse and append "#"**
 * 11: know what it is talking about
 * 23: merge k, solved it in one pass, but check it out again
 * 24: beautiful recursive solution
@@ -51,7 +51,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 201: Kerninghan Algorithm: n & (n-1)
 * 207: TP sort but not really sort, do it again
 * 215: quick-select, partition, do it again
-* 218: sky-line!!!!! push 0 to heap, the heap is a maxheap
+* 218: **sky-line!!!!! push 0 to heap, the heap is a maxheap**
 * 220: **very tough problem with bucket, do it again**
 * 222: know what Complete Tree is and compare the depth
 * 227: there is a one-pass solution and store `op` as `+` before the loop
