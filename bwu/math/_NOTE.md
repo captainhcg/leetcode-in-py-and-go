@@ -6,3 +6,4 @@
 - divmod(x, y) returns x / y and x % y
 - count primes: use a [1 * n] array, like open window game
 - reverse integer: consider negative and overflow (> 2 ** 31)
+- review atoi
