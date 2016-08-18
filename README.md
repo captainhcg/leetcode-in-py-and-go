@@ -2,6 +2,7 @@
 A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 
 * 3: one-loop solution; start index
+* 4: **median of 2 sorted arraries, m = min(len(arr1)-1, (kth-1)/2)!!!**
 * 5: handle "aaaaaaa" by `expand` 
 * 10: **regex. pay attentation to ("", "a*") -> reverse and append "#"**
 * 11: know what it is talking about
