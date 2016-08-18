@@ -9,3 +9,6 @@ __python set__
 - s.difference(t) ==> s - t
 - s.symmetric_difference(t) = s ^ t
 - s.copy()
+
+__notes__
+- rotate array ==> tripple reverse
