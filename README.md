@@ -63,6 +63,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 227: there is a one-pass solution and store `op` as `+` before the loop
 * 236: a spendid way to get the path of p and q, do it again
 * 238: Index
+* 239: sliding-window. two while loops, pop right then pop left
 * 240: know the splendid trick, top-right or left-bottom
 * 241: solved it by myself, but still read it if I have time
 * 245: idx1 = idx2 when w1 == w2
