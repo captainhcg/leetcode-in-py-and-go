@@ -7,3 +7,5 @@
 - count primes: use a [1 * n] array, like open window game
 - reverse integer: consider negative and overflow (> 2 ** 31)
 - review atoi
+- random.randint(low, high)
+- reservoir sampling: [first n numbers], for n + i, the possiblity of taking it is 1/(n + i), the swap with one of the n numbers in the reservoir pool
