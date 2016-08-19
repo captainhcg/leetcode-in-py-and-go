@@ -22,6 +22,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 61: create a circle link
 * 69: sqrt in Newton's method
 * 75: pay attention to the ptrs, do it again if you have time
+* 76: min substring, two while loops with a counter
 * 88: just do it again
 * 89: just know the shitty trick of graycode
 * 90: use closure and last idx, do it again
