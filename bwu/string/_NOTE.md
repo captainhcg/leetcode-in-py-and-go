@@ -2,3 +2,4 @@
 - string -> array of char: list(str)
 - strstr() be careful
 - check if alphanumeric -> str.isalnum()
+- 318. use bit mask to check if words have same characters
