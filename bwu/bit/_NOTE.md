@@ -1,3 +1,4 @@
 - hamming weight: number of '1' bits
 - n &= n - 1: remove the first 1 bit from left
 - keep in mind that 3(0011) & 1 << 1(0010) still returns 2(0010)
+- 137. consider left most bit
