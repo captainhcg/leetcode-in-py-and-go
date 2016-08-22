@@ -14,3 +14,4 @@ __notes__
 - rotate array ==> tripple reverse
 - array.extend([some, stuff]) to pad array
 - 347. top k frequent elements -> bucket count
+- 289. use zipped x, y offsets to check surrounding elements. use second bit to represent next status
