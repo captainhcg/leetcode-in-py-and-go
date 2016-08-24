@@ -1,0 +1,35 @@
+class Solution(object):
+    def deserialize(self, s):
+        arr = []
+        stack = []
+        last = ""
+        for ch in s:
+            if ch.isdigit() or ch == "-":
+                last += ch
+            else:
+                if last:
+                    arr.append(last)
+                last = ""
+                arr.append(ch)
+        if last:
+            arr.append(last)
+
+        res = None
+        for element in arr:
+            if element == "[":
+                ni = NestedInteger()
+                if stack:
+                    stack[-1].add(ni)
+                stack.append(ni)
+            elif element == "]":
+                res = stack.pop()
+            elif element == ",":
+                pass
+            else:
+                ni = NestedInteger(int(element))
+                if stack:
+                    stack[-1].add(ni)
+                else:
+                    return ni
+
+        return res
