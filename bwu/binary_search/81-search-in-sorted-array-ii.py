@@ -30,4 +30,5 @@ class Solution(object):
                 else:
                     r = mid
                     
-        return mid[l] == target or mid[r] == target
+        return nums[l] == target or nums[r] == target
+            
