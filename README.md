@@ -102,3 +102,4 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 377: DP trick, do it again
 * 378: kth ele in matrix, min heap keep pulling
 * 380: use a dict and append to a list
+* 386: Lexicographical Numbers, DFS
