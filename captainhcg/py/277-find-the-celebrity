@@ -1,0 +1,22 @@
+class Solution(object):
+    def findCelebrity(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        c = 0
+        for asked in xrange(1, n):
+            if knows(c, asked):
+                c = asked
+
+        for p in xrange(c):
+            if knows(c, p):
+                return -1
+
+        for p in xrange(n):
+            if p == c:
+                continue
+            if not knows(p, c):
+                return -1
+
+        return c
