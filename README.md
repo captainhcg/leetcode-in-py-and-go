@@ -83,6 +83,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 295: shall store minus value in maxheap; heapq.heappushpop
 * 296: meet at the median point
 * 300: know the splendid nlog(n) solution
+* 307: range sum query, use binary-indexed-tree
 * 309: know the splendid DP trick
 * 318: compare mask and multiply mask
 * 319: know the trick
