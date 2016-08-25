@@ -96,6 +96,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 354: NlogN solution, bisect_left
 * 355: heapq.merge; itertools.islice
 * 357: 0; The helper function
+* 360: sort transformed array. This is a math problem, from both ends to middle
 * 364: pass int sum to deeper level and return it back
 * 365: water and jug. This actuall a GCD problem with so many traps
 * 367: 1 + 2 + 3 + ... & Newton's method
