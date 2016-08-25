@@ -61,6 +61,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 218: **sky-line!!!!! push 0 to heap, the heap is a maxheap**
 * 220: **very tough problem with bucket, do it again**
 * 222: know what Complete Tree is and compare the depth
+* 224: basic-calculator. **Preprocess the string!!!**
 * 227: there is a one-pass solution and store `op` as `+` before the loop
 * 236: a spendid way to get the path of p and q, do it again
 * 238: Index
