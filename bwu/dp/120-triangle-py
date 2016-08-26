@@ -1,0 +1,18 @@
+class Solution(object):
+    def minimumTotal(self, triangle):
+        """
+        :type triangle: List[List[int]]
+        :rtype: int
+        """
+        if not len(triangle) or not len(triangle[0]):
+            return 0
+            
+        m = n = len(triangle)
+        if m == 1:
+            return min(triangle[0])
+        
+        for i in xrange(m - 1):
+            for j in xrange(n - 1 - i):
+                triangle[m - 2 - i][j] += min(triangle[m - 1 - i][j], triangle[m - 1 - i][j + 1])
+                
+        return triangle[0][0]
