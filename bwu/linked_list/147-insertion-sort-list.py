@@ -38,6 +38,8 @@ class Solution(object):
             else:
                 curr.next = node
                 node.next = None
+                cache['largest'] = node.val
+                cache['last'] = node
         
         while dummy.next:
             tmp = dummy.next.next
@@ -45,3 +47,4 @@ class Solution(object):
             dummy.next = tmp
             
         return newhead.next
+        
