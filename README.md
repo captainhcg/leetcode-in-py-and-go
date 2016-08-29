@@ -75,6 +75,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 265: kn solution must be very careful. Shall do it again
 * 269: crazy. zip, topo sort, ['a'] and ['ab', 'a']
 * 270: simple but made many stupid mistakes, do it again
+* 273: integer to English, **0 and spaces!!!**
 * 275: just do it again
 * 277: Celebrity. Super smart three loop solution
 * 279: DP trick: i - n*n
