@@ -11,7 +11,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 25: a sieve algo
 * 29: overflow; both-negative
 * 31: just do it again
-* 32: longest valid, find single dog
+* 32: longest valid (), use a stack, push left idx
 * 33: compare mid value with edges, not target with edges
 * 40: pass last selected index
 * 42: just reminder: blocks - bins
