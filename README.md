@@ -47,6 +47,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 149: do not need a global dict, just a fresh dict in each loop
 * 150: -1/5 = -1
 * 152: global_max, current_max, current_min
+* 154: find min in sorted array, compare mid with right, not left
 * 157: read4, know what it is talking about
 * 160: know the trick
 * 161: one edit distance, two pointers one pass. ~0 == -1; ~1 == -2
