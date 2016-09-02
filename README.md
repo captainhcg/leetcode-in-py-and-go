@@ -33,6 +33,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 90: use closure and last idx, do it again
 * 91: just do it again
 * 93: '010.01.01.010'
+* 99: recover BST. inorder trav, two nodes
 * 114: do it in post-travel
 * 115: distinct subsequences, do it in DP
 * 116: connect 2rd level
