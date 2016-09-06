@@ -93,6 +93,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 301: remove invalid (). BFS and visited set
 * 307: range sum query, use binary-indexed-tree
 * 309: know the splendid DP trick
+* 310: MHT, keep removing leaves till 1 or 2 leaves left
 * 318: compare mask and multiply mask
 * 319: know the trick
 * 322: coins change, both BFS and DP, BFS is faster
