@@ -23,6 +23,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 59: spiral magic: zip(*A[::-1])
 * 60: pay attentation to base, C(n-1) not C(n)
 * 61: create a circle link
+* 68: text justification. the last line!!! ljust
 * 69: sqrt in Newton's method
 * 75: pay attention to the ptrs, do it again if you have time
 * 76: min substring, two while loops with a counter
