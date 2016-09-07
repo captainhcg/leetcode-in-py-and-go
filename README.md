@@ -33,6 +33,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 89: just know the shitty trick of graycode
 * 90: use closure and last idx, do it again
 * 91: just do it again
+* 92: reverse from m-n, rotate not swap
 * 93: '010.01.01.010'
 * 99: recover BST. inorder trav, two nodes
 * 114: do it in post-travel
