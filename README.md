@@ -39,6 +39,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 114: do it in post-travel
 * 115: distinct subsequences, do it in DP
 * 116: connect 2rd level
+* 117: connect 2rd level, do it again. using javascript?
 * 123: stock iii, brilliant solution
 * 126: word-ladder ii, pre is not str to str but str to list
 * 127: word-ladder, two-end BSF keep swiching
