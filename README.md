@@ -29,6 +29,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 76: min substring, two while loops with a counter
 * 81: search in rotated with dup. compare middle with left and move left
 * 84: histogram, do it again
+* 87: scamble string, two kinds of swap
 * 88: just do it again
 * 89: just know the shitty trick of graycode
 * 90: use closure and last idx, do it again
