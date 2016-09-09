@@ -65,6 +65,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 170: simple but made a lot of mistakes. do it again
 * 172: know the trick
 * 173: solved it by myself in one pass, but still read it if I have time
+* 174: dungeon-game: from right bottom to top-left, reset 0 in time.
 * 179: pay attentation to "00" and "0"
 * 189: k = k % len(nums)
 * 198: The second room
