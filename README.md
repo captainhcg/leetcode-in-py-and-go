@@ -99,6 +99,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 307: range sum query, use binary-indexed-tree
 * 309: know the splendid DP trick
 * 310: MHT, keep removing leaves till 1 or 2 leaves left
+* 314: BT Vertical traversal. Must do it in BFS
 * 318: compare mask and multiply mask
 * 319: know the trick
 * 322: coins change, both BFS and DP, BFS is faster
