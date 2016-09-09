@@ -58,7 +58,8 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 160: know the trick
 * 161: one edit distance, two pointers one pass. ~0 == -1; ~1 == -2
 * 162: find local peak. Should do it again
-* 164: 1.0.0
+* 164: max gap. bucket len = len + 1. bucket size = (max - min / len) + 1
+* 165: 1.0.0
 * 168: n, idx = divmod(n-1, 26)
 * 170: simple but made a lot of mistakes. do it again
 * 172: know the trick
