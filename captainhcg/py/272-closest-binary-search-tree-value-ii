@@ -1,0 +1,37 @@
+class Solution(object):
+    def closestKValues(self, root, target, k):
+        pre = []
+        post = []
+        ret = []
+        
+        def post_dfs(node):
+            if not node:
+                return
+            post_dfs(node.right)
+            if node.val <= target:
+                return
+            post.append(node.val)
+            post_dfs(node.left)
+            
+        def pre_dfs(node):
+            if not node:
+                return
+            pre_dfs(node.left)
+            if node.val > target:
+                return
+            pre.append(node.val)
+            pre_dfs(node.right)
+        
+        pre_dfs(root)
+        post_dfs(root)
+
+        while k:
+            k -= 1
+            if not post or not pre:
+                ret.append((pre or post).pop())
+            elif float(post[-1]) - target < target - float(pre[-1]):
+                ret.append(post.pop())
+            else:
+                ret.append(pre.pop())
+        
+        return ret
