@@ -4,20 +4,17 @@ class Codec:
     
     def serialize(self, root):
         ret = []
-        q = deque([(root, -1, False)])
+        q = deque([(root, -1)])
         while q:
-            node, parent, is_left = q.popleft()
+            node, parent = q.popleft()
             if not node:
                 continue
             idx = len(ret)
             ret.append([node.val, -1, -1])
             if parent >= 0:
-                if is_left:
-                    ret[parent][1] = idx
-                else:
-                    ret[parent][2] = idx
-            q.append((node.left, idx, True))
-            q.append((node.right, idx, False))
+                ret[parent >> 1][1 + (parent & 1)] = idx
+            q.append((node.left, idx << 1))
+            q.append((node.right, (idx << 1) + 1))
         return ";".join([",".join(str(n) for n in nums) for nums in ret])
 
     def deserialize(self, data):
