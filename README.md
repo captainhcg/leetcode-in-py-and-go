@@ -115,6 +115,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 328: clean up tails
 * 329: longest increasing path; dfs with cache
 * 331: d##
+* 330: patching-array. splendid O(n) solution
 * 332: stupid itinerary problem
 * 334: know the trick and do it again
 * 241: flatten using a stack but no offset
