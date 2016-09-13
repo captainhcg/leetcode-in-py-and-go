@@ -113,6 +113,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 324: wiggle sort ii, revert and revert
 * 325: max-len-subarry, use hashmap!
 * 328: clean up tails
+* 329: longest increasing path; dfs with cache
 * 331: d##
 * 332: stupid itinerary problem
 * 334: know the trick and do it again
