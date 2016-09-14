@@ -109,6 +109,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 316: remove dup; two pointers O(n) solution
 * 318: compare mask and multiply mask
 * 319: know the trick
+* 321: create max number: 1. drop! 2. use python to compare list!
 * 322: coins change, both BFS and DP, BFS is faster
 * 323: connected-components, BFS and Union Find
 * 324: wiggle sort ii, revert and revert
