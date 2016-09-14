@@ -106,6 +106,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 310: MHT, keep removing leaves till 1 or 2 leaves left
 * 314: BT Vertical traversal. Must do it in BFS
 * 315: count of small to the right; BST, do it again
+* 316: remove dup; two pointers O(n) solution
 * 318: compare mask and multiply mask
 * 319: know the trick
 * 322: coins change, both BFS and DP, BFS is faster
