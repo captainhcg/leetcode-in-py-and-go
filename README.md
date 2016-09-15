@@ -61,6 +61,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 162: find local peak. Should do it again
 * 164: max gap. bucket len = len + 1. bucket size = (max - min / len) + 1
 * 165: 1.0.0
+* 166: fraction to recurring decimal. Use int,reminder as key, not reminder only
 * 168: n, idx = divmod(n-1, 26)
 * 170: simple but made a lot of mistakes. do it again
 * 172: know the trick
