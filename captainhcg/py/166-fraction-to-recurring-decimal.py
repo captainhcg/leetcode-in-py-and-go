@@ -7,23 +7,19 @@ class Solution(object):
         integer_part, reminder = divmod(numerator, denominator)
         ret = str(integer_part) + "."
         reminder *= 10
-
-        current = ""
-        offset = -1
+        offset = len(ret)
         cache = {}
-        while True:
+        while reminder:
             integer_part, reminder = divmod(reminder, denominator)
-            current += str(integer_part)
+            if reminder:
+                if (integer_part, reminder) in cache:
+                    last_offset = cache[(integer_part, reminder)]
+                    ret = ret[:last_offset] + "(%s)" % (ret[last_offset:])
+                    break
+                else:
+                    cache[(integer_part, reminder)] = offset
+            ret += str(integer_part)
             offset += 1
-            if reminder == 0:
-                ret += current
-                break
-            elif (integer_part, reminder) in cache:
-                last_offset = cache[(integer_part, reminder)]
-                ret += current[:last_offset] + "(%s)" % (current[last_offset:-1])
-                break
-            else:
-                cache[(integer_part, reminder)] = offset
             reminder *= 10
         if neg:
             ret = "-" + ret
