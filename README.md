@@ -74,6 +74,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 201: Kerninghan Algorithm: n & (n-1)
 * 207: TP sort but not really sort, do it again
 * 212: word search ii. Turn # off when found one result
+* 214: shortest palindrome. KMP. search s in revesed s, build kmp map for s
 * 215: quick-select, partition, do it again
 * 218: **sky-line!!!!! push 0 to heap, the heap is a maxheap**
 * 220: **very tough problem with bucket, do it again**
