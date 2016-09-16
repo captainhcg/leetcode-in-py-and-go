@@ -16,6 +16,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 40: pass last selected index
 * 42: just reminder: blocks - bins
 * 43: mul strings, i+j, i+j+1
+* 44: wildcard-matching, do it in both w and w/o DP
 * 45: jump game 2. Splendid O(n) solution, arr[:-1] in for loop
 * 51 & 52: 8 queens - checking diagonal smart!!!
 * 55: it is a easy question but I made too many mistakes. Shall do it again
