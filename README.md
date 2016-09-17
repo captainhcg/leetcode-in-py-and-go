@@ -133,6 +133,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 364: pass int sum to deeper level and return it back
 * 365: water and jug. This actuall a GCD problem with so many traps
 * 367: 1 + 2 + 3 + ... & Newton's method
+* 372: super pow, know the math
 * 373: It is ok to use n*n solution, know heapq
 * 375: guess high low ii. Splendid DP solution
 * 376: it is actualyl counting the segments (+1), not the numbers
