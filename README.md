@@ -143,3 +143,4 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 381: getrandom O(1), use random.choice(array) is fast
 * 385: mini-parser, always pay attention to "-" while parsing numbers
 * 386: Lexicographical Numbers, DFS
+* 390: elimination; logN
