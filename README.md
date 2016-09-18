@@ -124,6 +124,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 330: patching-array. splendid O(n) solution
 * 332: stupid itinerary problem
 * 334: know the trick and do it again
+* 335: self-crossing, 6 cases
 * 241: flatten using a stack but no offset
 * 347: Bucket Sort
 * 354: NlogN solution, bisect_left
