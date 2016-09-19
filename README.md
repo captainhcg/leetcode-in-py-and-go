@@ -81,6 +81,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 222: know what Complete Tree is and compare the depth
 * 224: basic-calculator. **Preprocess the string!!!**
 * 227: there is a one-pass solution and store `op` as `+` before the loop
+* 233: count 1. process digit by digit
 * 236: a spendid way to get the path of p and q, do it again
 * 238: Index
 * 239: sliding-window. two while loops, pop right then pop left
