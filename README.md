@@ -147,3 +147,4 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 386: Lexicographical Numbers, DFS
 * 390: elimination; logN
 * 401: b-watch: check time boundary
+* 402: remove k digits: stack, while k and stack...
