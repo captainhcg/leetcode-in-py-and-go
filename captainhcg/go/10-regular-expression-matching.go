@@ -20,7 +20,6 @@ func isMatch(s string, p string) bool {
 			} else if j == 0 {
 				mat[i][j] = false
 			} else {
-				fmt.Println(i, j)
 				if ss[i] == pp[j] || pp[j] == '.' {
 					mat[i][j] = mat[i-1][j-1]
 				} else if pp[j] == '*' && j >= 2 {
