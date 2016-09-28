@@ -7,7 +7,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 10: **regex. pay attentation to ("", "a*") -> reverse and append "#"**
 * 11: know what it is talking about
 * 23: merge k, solved it in one pass, but check it out again
-* 24: beautiful recursive solution
+* 24: swap-nodes-in-pairs beautiful recursive solution
 * 25: a sieve algo
 * 29: overflow; both-negative
 * 31: just do it again
