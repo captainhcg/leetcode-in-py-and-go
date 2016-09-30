@@ -8,9 +8,9 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 11: know what it is talking about
 * 23: merge k, solved it in one pass, but check it out again
 * 24: swap-nodes-in-pairs beautiful recursive solution
-* 25: reverse-nodes-in-k-group: parse pre_for_next to helper function
-* 29: overflow; both-negative
-* 31: just do it again
+* 25: **reverse-nodes-in-k-group: parse pre_for_next to helper function**
+* 29: divider two integers: overflow; both-negative
+* 31: **next permutation: just do it again**
 * 32: longest valid (), use a stack, push left idx
 * 33: compare mid value with edges, not target with edges
 * 40: pass last selected index
