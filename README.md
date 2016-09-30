@@ -12,7 +12,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 29: divider two integers: overflow; both-negative
 * 31: **next permutation: just do it again** (sort!)
 * 32: longest valid (), use a stack, push left idx
-* 33: compare mid value with edges, not target with edges
+* 33: **search-in-rotated-sorted-array**, compare mid value with edges, not target with edges
 * 40: pass last selected index
 * 42: just reminder: blocks - bins
 * 43: mul strings, i+j, i+j+1
