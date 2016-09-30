@@ -13,7 +13,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 31: **next permutation: just do it again** (sort!)
 * 32: longest valid (), use a stack, push left idx
 * 33: **search-in-rotated-sorted-array**, compare mid value with edges, not target with edges
-* 40: pass last selected index
+* 40: combination-sum-ii: pass last selected index
 * 42: just reminder: blocks - bins
 * 43: mul strings, i+j, i+j+1
 * 44: wildcard-matching, do it in both w and w/o DP
