@@ -10,12 +10,9 @@ class Solution(object):
         :type intervals: List[Interval]
         :rtype: bool
         """
-        bucket = []
-        for intv in intervals:
-            bucket.append((intv.start, intv.end))
-            
-        bucket.sort()
-        for i in xrange(1, len(bucket)):
-            if bucket[i][0] < bucket[i - 1][1]:
+        intervals.sort(key=lambda i: i.start)
+        for i in xrange(1, len(intervals)):
+            if intervals[i].start < intervals[i - 1].end:
                 return False
         return True
+            
