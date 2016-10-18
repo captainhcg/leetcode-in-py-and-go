@@ -15,11 +15,9 @@ class Solution(object):
         :rtype: int
         """
         index, count, nums = -1, 0, self.l
-        for i in range(len(nums)):
+        for i in xrange(len(nums)):
             if nums[i] == target:
-                if index == -1:
-                    index = i
-                elif random.randint(0,count) == 0:
+                if random.randint(0,count) == 0:
                     index = i
                 count += 1
         return index
