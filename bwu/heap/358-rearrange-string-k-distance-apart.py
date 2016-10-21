@@ -9,24 +9,20 @@ class Solution(object):
         heapq.heapify(heap)
         res = []
         
+        if k == 0:
+            return str
+        
         while len(res) < len(str):
-            if not heap:
-                return ''
             tmp = []
-            freq, curr = heapq.heappop(heap)
-            res.append(curr)
-            for _ in xrange(k - 1):
+            for _ in xrange(k):
                 if len(res) == len(str):
                     return ''.join(res)
                 if not heap:
                     return ''
-                next_freq, next_v = heapq.heappop(heap)
-                res.append(next_v)
-                if next_freq < -1:
-                    tmp.append((next_freq + 1, next_v))
+                freq, curr = heapq.heappop(heap)
+                res.append(curr)
+                if freq < -1:
+                    tmp.append((freq + 1, curr))
             while tmp:
                 heapq.heappush(heap, tmp.pop())
-            if freq < -1:
-                heapq.heappush(heap, (freq + 1, curr))
         return ''.join(res)
-                
