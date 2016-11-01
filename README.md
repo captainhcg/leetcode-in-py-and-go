@@ -153,4 +153,5 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 410: split-array-largest-sum, binary search and splendid valid()
 * 414: third-maximum-number.js, trap
 * 437: path-sum-3, trap
+* 440: k-th-smallest-in-lexicographical-order, splendid solution, do it again
 * 444: sequence-reconstruction, tobology sorting, boring game
