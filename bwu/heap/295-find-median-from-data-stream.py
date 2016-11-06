@@ -1,3 +1,4 @@
+from heapq import *
 class MedianFinder:
     def __init__(self):
         """
@@ -12,31 +13,17 @@ class MedianFinder:
         :type num: int
         :rtype: void
         """
-        median = self.findMedian()
-        if len(self.l_heap) == len(self.r_heap):
-            if median is None or num <= median:
-                heapq.heappush(self.l_heap, -num)
-            else:
-                tmp = heapq.heappushpop(self.r_heap, num)
-                heapq.heappush(self.l_heap, -tmp)
-        else:
-            if num <= median:
-                tmp = heapq.heappushpop(self.l_heap, -num)
-                heapq.heappush(self.r_heap, -tmp)
-            else:
-                heapq.heappush(self.r_heap, num)
+        heappush(self.l_heap, -heappushpop(self.r_heap, num))
+        if len(self.r_heap) < len(self.l_heap):
+            heappush(self.r_heap, -heappop(self.l_heap))
+        
 
     def findMedian(self):
         """
         Returns the median of current data stream
         :rtype: float
         """
-        if not len(self.l_heap) and not len(self.r_heap):
-            return None
-        elif not len(self.r_heap):
-            return -self.l_heap[0] * 1.0
-            
-        if len(self.l_heap) == len(self.r_heap):
-            return (self.r_heap[0] - self.l_heap[0]) / 2.0
+        if len(self.r_heap) > len(self.l_heap):
+            return float(self.r_heap[0])
         else:
-            return -self.l_heap[0] * 1.0
+            return (self.r_heap[0] - self.l_heap[0]) / 2.0
