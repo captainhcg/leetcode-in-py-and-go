@@ -4,8 +4,6 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        if n < 10:
-            return n
         digits = 1
         pos = 0
         step = 1
