@@ -23,7 +23,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 57: insert-interval, three phases instead of one
 * 59: spiral-matrix-ii: spiral magic: zip(*A[::-1])
 * 60: permutation-sequence, pay attentation to base, C(n-1) not C(n)
-* 61: create a circle link
+* 61: **rotate-list**, create a circle link
 * 68: text justification. the last line!!! ljust
 * 69: sqrt in Newton's method
 * 75: pay attention to the ptrs, do it again if you have time
