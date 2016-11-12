@@ -21,7 +21,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 45: **jump game 2**. Splendid O(n) solution, arr[:-1] in for loop
 * 51 & 52: 8 queens - checking diagonal smart!!!
 * 57: insert-interval, three phases instead of one
-* 59: spiral magic: zip(*A[::-1])
+* 59: spiral-matrix-ii: spiral magic: zip(*A[::-1])
 * 60: permutation-sequence, pay attentation to base, C(n-1) not C(n)
 * 61: create a circle link
 * 68: text justification. the last line!!! ljust
