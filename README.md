@@ -25,10 +25,10 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 60: permutation-sequence, pay attentation to base, C(n-1) not C(n)
 * 61: **rotate-list**, create a circle link
 * 68: text justification. the last line!!! ljust
-* 69: sqrt in Newton's method
-* 75: pay attention to the ptrs, do it again if you have time
-* 76: min substring, two while loops with a counter
-* 81: search in rotated with dup. compare middle with left and move left
+* 69: sqrtx: Newton's method
+* 75: sort-colors: pay attention to the ptrs, do it again if you have time
+* 76: minimum-window-substring, two while loops with a counter
+* 81: **search-in-rotated-sorted-array-i**. compare middle with left and move left
 * 84: histogram, do it again
 * 87: scamble string, two kinds of swap
 * 88: just do it again
