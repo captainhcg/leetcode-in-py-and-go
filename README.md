@@ -29,8 +29,8 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 75: sort-colors: pay attention to the ptrs, do it again if you have time
 * 76: minimum-window-substring, two while loops with a counter
 * 81: **search-in-rotated-sorted-array-i**. compare middle with left and move left
-* 84: histogram, do it again
-* 87: scamble string, two kinds of swap
+* 84: **largest-rectangle-in-histogram**, do it again
+* 87: **scramble-string**, two kinds of swap
 * 88: just do it again
 * 89: just know the shitty trick of graycode
 * 90: use closure and last idx, do it again
