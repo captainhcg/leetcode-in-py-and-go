@@ -33,7 +33,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 87: **scramble-string**, two kinds of swap
 * 89: gray-code, just know the shitty trick of graycode
 * 90: subsets-ii, use closure and last idx, do it again
-* 91: just do it again
+* 91: **decode-ways**, just do it again
 * 92: reverse from m-n, rotate not swap
 * 93: '010.01.01.010'
 * 99: recover BST. inorder trav, two nodes
