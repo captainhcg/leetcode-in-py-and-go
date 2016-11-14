@@ -31,7 +31,6 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 81: **search-in-rotated-sorted-array-i**. compare middle with left and move left
 * 84: **largest-rectangle-in-histogram**, do it again
 * 87: **scramble-string**, two kinds of swap
-* 88: just do it again
 * 89: just know the shitty trick of graycode
 * 90: use closure and last idx, do it again
 * 91: just do it again
