@@ -1,0 +1,5 @@
+class Solution(object):
+    def fourSumCount(self, A, B, C, D):
+        from collections import Counter
+        ct = Counter(a + b for a in A for b in B)
+        return sum(ct[-c-d] for c in C for d in D)
