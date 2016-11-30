@@ -11,7 +11,7 @@
 | 253 | Meeting Rooms II                                         | 37.80% | Medium |
 | 17  | Letter Combinations of a Phone Number                    | 31.90% | Medium |
 | 91  | Decode Ways                                              | 18.70% | Medium |
-| 10  | Regular Expression Matching                              | 23.40% | Hard   |
+| 10  | **Regular Expression Matching**                              | 23.40% | Hard   |
 | 158 | Read N Characters Given Read4 II - Call multiple times   | 24.20% | Hard   |
 | 15  | 3Sum                                                     | 20.60% | Medium |
 | 277 | Find the Celebrity                                       | 35.50% | Medium |
