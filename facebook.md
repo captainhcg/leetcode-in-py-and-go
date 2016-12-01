@@ -73,7 +73,7 @@
 | 68  | Text Justification                                       | 17.80% | Hard   |
 | 221 | Maximal Square                                           | 26.60% | Medium |
 | 274 | H-Index                                                  | 31.70% | Medium |
-| 117 | Populating Next Right Pointers in Each Node II           | 33.40% | Hard   |
+| 117 | **Populating Next Right Pointers in Each Node II**           | 33.40% | Hard   |
 | 210 | Course Schedule II                                       | 25.00% | Medium |
 | 85  | Maximal Rectangle                                        | 25.60% | Hard   |
 | 234 | Palindrome Linked List                                   | 31.20% | Easy   |
