@@ -37,7 +37,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 92: reverse from m-n, rotate not swap
 * 93: '010.01.01.010'
 * 99: recover BST. inorder trav, two nodes
-* 114: do it in post-travel
+* 114: **flatten-binary-tree-to-linked-list**, just do it again
 * 115: distinct subsequences, do it in DP
 * 116: connect 2rd level
 * 117: connect 2rd level, do it again. using javascript?
