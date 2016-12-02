@@ -99,7 +99,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 277: Celebrity. Super smart three loop solution
 * 279: DP trick: i - n*n
 * 280: know the one pass trick or wiggle sort
-* 282: expression add, +-*. pass res and last
+* 282: **expression add**, +-*. pass res and last
 * 294: brute force with cache
 * 295: shall store minus value in maxheap; heapq.heappushpop
 * 296: meet at the median point
