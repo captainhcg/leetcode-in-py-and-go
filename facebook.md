@@ -22,7 +22,7 @@
 | 157 | Read N Characters Given Read4                            | 29.40% | Easy   |
 | 23  | Merge k Sorted Lists                                     | 25.60% | Hard   |
 | 76  | Minimum Window Substring                                 | 23.40% | Hard   |
-| 282 | Expression Add Operators                                 | 28.00% | Hard   |
+| 282 | **Expression Add Operators**                                 | 28.00% | Hard   |
 | 257 | Binary Tree Paths                                        | 34.00% | Easy   |
 | 56  | Merge Intervals                                          | 28.00% | Hard   |
 | 173 | Binary Search Tree Iterator                              | 38.40% | Medium |
