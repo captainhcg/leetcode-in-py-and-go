@@ -2,7 +2,7 @@
 |-----|----------------------------------------------------------|--------|--------|
 | 283 | Move Zeroes                                              | 47.30% | Easy   |
 | 325 | Maximum Size Subarray Sum Equals k                       | 41.40% | Medium |
-| 301 | Remove Invalid Parentheses                               | 34.30% | Hard   |
+| 301 | **Remove Invalid Parentheses**                               | 34.30% | Hard   |
 | 311 | Sparse Matrix Multiplication                             | 50.10% | Medium |
 | 314 | Binary Tree Vertical Order Traversal                     | 34.50% | Medium |
 | 67  | Add Binary                                               | 30.10% | Easy   |
