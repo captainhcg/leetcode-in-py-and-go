@@ -54,7 +54,7 @@
 | 215 | Kth Largest Element in an Array                          | 37.00% | Medium |
 | 90  | Subsets II                                               | 33.40% | Medium |
 | 398 | Random Pick Index                                        | 38.30% | Medium |
-| 128 | Longest Consecutive Sequence                             | 34.90% | Hard   |
+| 128 | **Longest Consecutive Sequence**                             | 34.90% | Hard   |
 | 44  | Wildcard Matching                                        | 18.80% | Hard   |
 | 146 | LRU Cache                                                | 15.90% | Hard   |
 | 28  | Implement strStr()                                       | 26.70% | Easy   |
