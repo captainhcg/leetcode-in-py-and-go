@@ -34,7 +34,7 @@
 | 211 | Add and Search Word - Data structure design              | 20.10% | Medium |
 | 78  | Subsets                                                  | 35.90% | Medium |
 | 206 | Reverse Linked List                                      | 43.00% | Easy   |
-| 218 | The Skyline Problem                                      | 25.20% | Hard   |
+| 218 | **The Skyline Problem**                                      | 25.20% | Hard   |
 | 236 | Lowest Common Ancestor of a Binary Tree                  | 29.20% | Medium |
 | 98  | Validate Binary Search Tree                              | 22.10% | Medium |
 | 252 | Meeting Rooms                                            | 44.90% | Easy   |
