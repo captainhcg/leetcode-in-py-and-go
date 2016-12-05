@@ -30,7 +30,7 @@
 | 1   | Two Sum                                                  | 28.90% | Easy   |
 | 139 | Word Break                                               | 27.80% | Medium |
 | 75  | Sort Colors                                              | 36.40% | Medium |
-| 341 | Flatten Nested List Iterator                             | 37.80% | Medium |
+| 341 | **Flatten Nested List Iterator**                             | 37.80% | Medium |
 | 211 | Add and Search Word - Data structure design              | 20.10% | Medium |
 | 78  | Subsets                                                  | 35.90% | Medium |
 | 206 | Reverse Linked List                                      | 43.00% | Easy   |
