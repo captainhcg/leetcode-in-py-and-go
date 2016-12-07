@@ -42,7 +42,7 @@
 | 43  | Multiply Strings                                         | 25.60% | Medium |
 | 133 | Clone Graph                                              | 25.00% | Medium |
 | 49  | Group Anagrams                                           | 31.30% | Medium |
-| 57  | Insert Interval                                          | 26.00% | Hard   |
+| 57  | **Insert Interval**                                          | 26.00% | Hard   |
 | 238 | **Product of Array Except Self**                             | 46.50% | Medium |
 | 38  | Count and Say                                            | 32.10% | Easy   |
 | 209 | Minimum Size Subarray Sum                                | 28.30% | Medium |
