@@ -11,7 +11,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 25: **reverse-nodes-in-k-group: parse pre_for_next to helper function**
 * 29: divider two integers: overflow; both-negative
 * 31: **next permutation: just do it again** (sort!)
-* 32: longest valid (), use a stack, push left idx
+* 32: **longest valid (), use a stack, push left idx**
 * 33: **search-in-rotated-sorted-array**, compare mid value with edges, not target with edges
 * 40: combination-sum-ii: pass last selected index
 * 41: **first-missing-positive**, swap
