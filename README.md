@@ -89,6 +89,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 245: idx1 = idx2 when w1 == w2
 * 253: super smart one pass solution, pay attentation to (1, 2), (2, 3)
 * 260: bit := res & (-res)
+* 261: **graph-valid-tree**
 * 264: ugly number ii. three ptrs, move ptr2 and ptr3 for 6
 * 265: kn solution must be very careful. Shall do it again
 * 269: crazy. zip, topo sort, ['a'] and ['ab', 'a']
