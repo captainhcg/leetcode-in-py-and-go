@@ -65,7 +65,7 @@
 | 334 | Increasing Triplet Subsequence                           | 37.30% | Medium |
 | 50  | Pow(x, n)                                                | 27.20% | Medium |
 | 286 | Walls and Gates                                          | 41.70% | Medium |
-| 69  | Sqrt(x)                                                  | 26.70% | Medium |
+| 69  | **Sqrt(x)**                                                  | 26.70% | Medium |
 | 102 | Binary Tree Level Order Traversal                        | 36.40% | Easy   |
 | 20  | Valid Parentheses                                        | 31.70% | Easy   |
 | 235 | Lowest Common Ancestor of a Binary Search Tree           | 37.90% | Easy   |
