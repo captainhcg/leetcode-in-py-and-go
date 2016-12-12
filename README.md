@@ -92,7 +92,7 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 261: **graph-valid-tree**
 * 264: ugly number ii. three ptrs, move ptr2 and ptr3 for 6
 * 265: kn solution must be very careful. Shall do it again
-* 269: crazy. zip, topo sort, ['a'] and ['ab', 'a']
+* 269: **crazy. zip, topo sort, ['a'] and ['ab', 'a']**
 * 270: simple but made many stupid mistakes, do it again
 * 272: closed k; two stack and DFS, pay attention to early ter condition
 * 273: integer to English, **0 and spaces!!!**
