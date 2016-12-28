@@ -158,3 +158,4 @@ A shelf of my solutions of Leetcode Algorithms Programs in both Python Golang
 * 448: find-all-numbers-disappeared-in-an-array, mark negative
 * 452: minimum-number-of-arrows-to-burst-balloons, pretty simple greedy solution
 * 456: 132-pattern: stack single path, end to begin
+* 475: heaters: binary search
